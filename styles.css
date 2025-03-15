@@ -15,6 +15,29 @@ h1{
     font-size: 1.5rem;
     font-style: oblique;
 }
+#about-site{
+    width: 40%;
+    margin: 0 auto;
+    justify-content: center;
+
+}
+#contact-site{
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5rem;
+}
+#bigmail{
+    width: 70%;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    text-decoration: none;
+}
 ul{
     list-style-type: none;
     margin: 0;
