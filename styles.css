@@ -16,6 +16,7 @@ h1{
     font-style: oblique;
 }
 #about-site{
+    padding-top: 5%;
     width: 50%;
     margin: 0 auto;
     justify-content: center;
